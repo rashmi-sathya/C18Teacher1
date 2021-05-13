@@ -1,1 +1,1 @@
-# C18Teacher1
+# C10-project-template
